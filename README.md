@@ -67,3 +67,4 @@ Sorularınız veya önerileriniz için benimle iletişime geçebilirsiniz.
 ## Lisans
 
 Bu proje açık kaynaklıdır ve herhangi bir lisans kısıtlaması içermez.
+jsndkjsnjdnsjndjsjdsjdjsdnjsj
