@@ -1,14 +1,19 @@
 # E-Ticaret Web Sitesi
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+![GitHub repo size](https://img.shields.io/github/repo-size/semihdayioglu/ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/semihdayioglu/ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/semihdayioglu/ecommerce-website?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/semihdayioglu?style=social)](https://github.com/semihdayioglu)
 
 Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş tamamen duyarlı (responsive) bir e-ticaret web sitesidir. Tüm mobil cihazlarda maksimum uyumluluk sağlar.
 
-## Özellikler
+## 👨‍💻 Geliştirici
+
+- **İsim:** Semih Dayıoğlu
+- **GitHub:** [@semihdayioglu](https://github.com/semihdayioglu)
+- **E-posta:** semihdayioglu18@gmail.com
+
+## ✨ Özellikler
 
 - Modern ve şık tasarım
 - Tamamen duyarlı (responsive) arayüz
@@ -17,34 +22,12 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş tamamen duyarlı
 - Alışveriş sepeti fonksiyonalitesi
 - Güvenli ödeme sistemi entegrasyonu
 
-## Demo
+## 🖥️ Demo
 
 ![Masaüstü Görünümü](./website-demo-image/desktop.png "Masaüstü Görünümü")
 ![Mobil Görünüm](./website-demo-image/mobile.png "Mobil Görünüm")
 
-## Gereksinimler
-
-Projeyi çalıştırmadan önce aşağıdaki gereksinimlerin karşılandığından emin olun:
-
-* [Git](https://git-scm.com/downloads "Git'i İndir") işletim sisteminizde kurulu olmalıdır.
-
-## Kurulum
-
-Projeyi kurmak için aşağıdaki adımları izleyin:
-
-Linux ve macOS için:
-
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows için:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Teknolojiler
+## 🛠️ Teknolojiler
 
 - HTML5
 - CSS3
@@ -52,7 +35,23 @@ git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 - Responsive Design
 - Modern CSS Framework'leri
 
-## Katkıda Bulunma
+## 🚀 Kurulum
+
+Projeyi yerel makinenizde çalıştırmak için:
+
+1. Projeyi klonlayın:
+```bash
+git clone https://github.com/semihdayioglu/ecommerce-website.git
+```
+
+2. Proje dizinine gidin:
+```bash
+cd ecommerce-website
+```
+
+3. `index.html` dosyasını bir web tarayıcısında açın.
+
+## 🤝 Katkıda Bulunma
 
 1. Bu depoyu fork edin
 2. Yeni bir branch oluşturun (`git checkout -b feature/amazing-feature`)
@@ -60,11 +59,12 @@ git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Bir Pull Request oluşturun
 
-## İletişim
-
-Sorularınız veya önerileriniz için benimle iletişime geçebilirsiniz.
-
-## Lisans
+## 📝 Lisans
 
 Bu proje açık kaynaklıdır ve herhangi bir lisans kısıtlaması içermez.
-jsndkjsnjdnsjndjsjdsjdjsdnjsj
+
+## 📞 İletişim
+
+Sorularınız veya önerileriniz için:
+- GitHub: [@semihdayioglu](https://github.com/semihdayioglu)
+- E-posta: semihdayioglu18@gmail.com
